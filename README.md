@@ -85,12 +85,11 @@ Hi! I am **Mareedu Jahnavi**, a passionate **DevOps & Cloud Engineer** with **2+
 
 ---
 
-##  GitHub Trophies
+##  Contribution Activity Graph
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=jahnavi1098&theme=darkhub&no-frame=true&row=1&column=7" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jahnavi1098&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 </div>
-
 ---
 
 ##  Connect With Me
