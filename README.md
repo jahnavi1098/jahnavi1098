@@ -8,18 +8,18 @@
 
 ---
 
-## 👩‍💻 About Me
+##  About Me
 
 Hi! I am **Mareedu Jahnavi**, a passionate **DevOps & Cloud Engineer** with **2+ years of hands-on experience** at **Capgemini**, specializing in cloud infrastructure, CI/CD pipelines, and Kubernetes production support. I have led large-scale Azure migrations and built reliable, automated DevOps workflows for enterprise clients.
 
-- 🚀 Reduced deployment time by **40%** using Jenkins and GitHub Actions CI/CD pipelines
-- ☁️ Migrated **20+ enterprise apps** to Microsoft Azure with **99.9% uptime**
-- 🏆 Holds **4 Active Cloud Certifications** — AZ-104, AZ-900, AI-900, AWS CLF-C02
-- 📍 Open to **Hyderabad & Bangalore** opportunities | **Immediate Joiner**
+-  Reduced deployment time by **40%** using Jenkins and GitHub Actions CI/CD pipelines
+-  Migrated **20+ enterprise apps** to Microsoft Azure with **99.9% uptime**
+-  Holds **4 Active Cloud Certifications** — AZ-104, AZ-900, AI-900, AWS CLF-C02
+-  **Immediate Joiner**
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 **Cloud**
 
@@ -61,7 +61,7 @@ Hi! I am **Mareedu Jahnavi**, a passionate **DevOps & Cloud Engineer** with **2+
 
 ---
 
-## 🏆 Certifications
+##  Certifications
 
 ![AZ-104](https://img.shields.io/badge/AZ--104-Microsoft%20Azure%20Administrator-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![AZ-900](https://img.shields.io/badge/AZ--900-Azure%20Fundamentals-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
@@ -70,7 +70,7 @@ Hi! I am **Mareedu Jahnavi**, a passionate **DevOps & Cloud Engineer** with **2+
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
 
@@ -85,7 +85,7 @@ Hi! I am **Mareedu Jahnavi**, a passionate **DevOps & Cloud Engineer** with **2+
 
 ---
 
-## 🏅 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=jahnavi1098&theme=darkhub&no-frame=true&row=1&column=7" />
@@ -93,7 +93,7 @@ Hi! I am **Mareedu Jahnavi**, a passionate **DevOps & Cloud Engineer** with **2+
 
 ---
 
-## 🤝 Connect With Me
+##  Connect With Me
 
 <div align="center">
 
