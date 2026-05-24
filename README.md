@@ -70,27 +70,7 @@ Hi! I am **Mareedu Jahnavi**, a passionate **DevOps & Cloud Engineer** with **2+
 
 ---
 
-##  GitHub Stats
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jahnavi1098&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jahnavi1098&theme=tokyonight&hide_border=true" width="48%" />
-
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahnavi1098&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</div>
-
----
-
-##  Contribution Activity Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=jahnavi1098&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</div>
----
 
 ##  Connect With Me
 
