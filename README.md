@@ -106,8 +106,8 @@ Hi! I am **Mareedu Jahnavi**, a passionate **DevOps & Cloud Engineer** with **2+
 
 <div align="center">
 
-**Open to DevOps & Cloud Engineer roles in Hyderabad / Bangalore | Immediate Joiner**
+**Open to DevOps & Cloud Engineer roles | Immediate Joiner**
 
-*Let's connect and build something amazing together!* 🚀
+*Let's connect and build something amazing together!* 
 
 </div>
